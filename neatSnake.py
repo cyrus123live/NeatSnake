@@ -1,6 +1,4 @@
-# Taken from husano896's PR thread (slightly modified)
 import pygame
-# import PlayerSegment as pg
 from pygame.locals import *
 from datetime import datetime
 from datetime import time
