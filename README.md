@@ -1,5 +1,7 @@
 # NeatSnake
-Snake-playing AI using neural network learning capacities provided by neat-python module.
+Snake-playing AI using neural network learning capacities provided by neat-python module. 
+
+Note: currently snakes are allowed to collide with themselves.
 
 run with "python3 neatSnake.py" to create optimal snake
 
